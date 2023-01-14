@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Guatemala</h3>
 
 <div alingn="center">
-<img align="center" alt="Coding" width="400" frameBorder="0" src="https://media0.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47tpxc6h9kr6o7fslt4the8sxwqy5uue7oz9x3c1qw&rid=giphy.gif&ct=g"  />
+<img align="center" alt="Coding" width="400" height="250" frameBorder="0" src="https://media0.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47tpxc6h9kr6o7fslt4the8sxwqy5uue7oz9x3c1qw&rid=giphy.gif&ct=g"  />
  </div>
 
 
