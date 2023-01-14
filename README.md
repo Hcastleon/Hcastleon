@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hcastleon" alt="hcastleon" /></a> </p>
 
+- 🔭 Software Engineer
+
 - 🌱 I’m currently learning **Redux, Zustand**
 
 - 📫 How to reach me **castellanos.heidyc@gmail.com**
