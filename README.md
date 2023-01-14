@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heidy Castellanos</h1>
 <h3 align="center">A passionate frontend developer from Guatemala</h3>
 
-<img align="center" alt="Coding" width="480" frameBorder="0" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
+<img align="center" alt="Coding" width="400" frameBorder="0" src="https://media0.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47tpxc6h9kr6o7fslt4the8sxwqy5uue7oz9x3c1qw&rid=giphy.gif&ct=g"  />
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hcastleon" alt="hcastleon" /></a> </p>
